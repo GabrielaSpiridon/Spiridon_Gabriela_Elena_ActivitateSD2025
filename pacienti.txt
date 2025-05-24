@@ -1,0 +1,5 @@
+1,45,5,Popescu,Dureri
+2,28,4,Vasilescu,Fractura
+3,72,5,Georgescu,Stop
+4,39,2,Dumitrescu,Entorsa
+5,55,5,Ionescu,AVC
